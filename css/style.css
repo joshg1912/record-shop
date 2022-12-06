@@ -58,3 +58,8 @@ margin: 0 auto;
 #slider {
     min-height: 85vh;
 }
+
+.sales-links {
+     width: 60%;
+     margin: 0 auto;
+}
