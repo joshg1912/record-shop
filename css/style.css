@@ -1,7 +1,9 @@
 .hero {
     min-height: 400px;
 }
-
+.post-row {
+    min-height: 150px;
+}
 #hero {
     min-height: 70vh;
 }
