@@ -1,11 +1,11 @@
 .hero {
-    min-height: 400px;
+    min-height: 500px;
 }
 .post-row {
     min-height: 150px;
 }
 #hero {
-    min-height: 70vh;
+    min-height: 60vh;
 }
 
 body {
