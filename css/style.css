@@ -91,3 +91,7 @@ overflow: hidden;
      width: 60%;
      margin: 0 auto;
 }
+
+footer {
+    background-color: grey;
+}
